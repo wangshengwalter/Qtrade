@@ -6,3 +6,9 @@ mlruns/
 qlib_bin.tar.gz
 qlib_bin_org.zip
 .ipynb_checkpoints/
+.vscode/
+__pycache__/
+*.pyc
+/.vscode
+/.vscode
+/.ipynb_checkpoints
